@@ -1,8 +1,16 @@
 # Ilm Portal Mobile App
 
-![Ilm Portal Desktop View](public/screenshots/screenshot-desktop.png)
+<div align="center">
 
-A modern Progressive Web App (PWA) built with Vue 3, Ionic, and Capacitor for Quranic learning and madrassa management.
+![ILM Portal Logo](public/app.png)
+
+**Your Learning Management System**
+
+</div>
+
+A modern Progressive Web App (PWA) built with Vue 3, Ionic, and Capacitor.
+
+![Ilm Portal Desktop View](public/screenshots/screenshot-desktop.png)
 
 ## 🚀 Quick Start
 
